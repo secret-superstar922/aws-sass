@@ -1,5 +1,4 @@
 # Building SaaS Solutions on AWS
-![SaaSAWS](images/SaaS-Factory.png "SaaS Factory")
 
 This Bootcamp is also available in [Portuguese (pt-br) language](README-pt-br.md).
 
@@ -29,6 +28,3 @@ Note that this workshop deploys infrastructure into your AWS account that is out
 
 ### Lab 3 - Data Isolation
 [![Lab3](images/lab3.png)](https://github.com/aws-samples/aws-saas-factory-bootcamp/blob/master/Lab3.md "Lab 3")
-
-# License
-This workshop is licensed under the Apache 2.0 License. See the [LICENSE](LICENSE) file.
